@@ -24,7 +24,8 @@
   
 <div align="center">
   <a href="https://www.linkedin.com/in/lucasbarbosadias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://medium.com/@lucasbarbosadias" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@lucasbarbosadias" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://www.credly.com/users/lucas-barbosa-dias" target="_blank"><img src="https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" target="_blank"></a>
 </div>
 
 
